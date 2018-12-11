@@ -1,0 +1,243 @@
+.dbdy {
+    width: 100%;
+    height: 3316px;
+}
+.dbdy .bgjpg {
+    width: 100%;
+    height: 100%;
+    background: url(./img/bg_84227bc.jpg)center;
+    background-size: cover;
+    position: relative;
+}
+.dbdy .bgjpg .logo {
+    width: 257px;
+    height: 129px;
+    background: url(./img/logo_fe3c921.png);
+    position: absolute;
+    top: 12px;
+    left: 120px;
+}
+.dbdy .bgjpg .video {
+    width: 128px;
+    height: 96px;
+    background: url(./img/index_z_a1745cb.png) -1846px -1646px;
+    position: absolute;
+    top: 202px;
+    left: 506px;
+}
+.dbdy .bgjpg .vdo {
+    width: 128px;
+    height: 96px;
+    background: url(./img/index_z_a1745cb.png) -1720px -1646px;
+    position: absolute;
+    top: 202px;
+    left: 506px;
+    display: none;
+}
+.dbdy .bgjpg .start {
+    width: 786px;
+    height: 386px;
+    background: url(./img/index_z_a1745cb.png) -54px -940px;
+    position: absolute;
+    top: 260px;
+    left: 310px;
+}
+.dbdy .bgjpg .fcode {
+    width: 112px;
+    height: 112px;
+    border-right: 1px solid #c89d00;
+    border-top: 1px solid #c89d00;
+    position: absolute;
+    top: 666px;
+    left: 530px;
+}
+.dbdy .bgjpg .fcode .code {
+    width: 102px;
+    height: 102px;
+    background: url(./img/donwload-qrcode_0a5221e.png);
+    background-size: cover;
+    border: 4px solid #f9c804;
+    position: absolute;
+    top: 50%;
+    margin-top: -51px;
+    left: 50%;
+    margin-left: -58px;
+}
+.dbdy .bgjpg .iphone {
+    width: 168px;
+    height: 48px;
+    background: url(./img/index_z_a1745cb.png) -232px -1976px;
+    position: absolute;
+    top: 668px;
+    left: 648px;
+}
+.dbdy .bgjpg .android {
+    width: 168px;
+    height: 48px;background: url(./img/index_z_a1745cb.png) -572px -1976px;
+    position: absolute;
+    top: 726px;
+    left: 648px;
+}
+.dbdy .bgjpg .select {
+    width: 100%;
+    height: 262px;
+    position: relative;
+    top: 918px;
+}
+.dbdy .bgjpg .select .seltr {
+    height: 100%;
+    /* background-color: blue; */
+}
+.dbdy .bgjpg .select .seltr .wrap {
+    width: 572px;
+    height: 262px;
+    background-color: pink;
+    position: relative;
+}
+.dbdy .bgjpg .select .bakuag {
+    width: 570px;
+    height: 260px;
+    border: 1px solid #326992;
+    transform: rotate(1.3deg);
+    position: absolute;
+}
+.dbdy .bgjpg .select .yqsi {
+    width: 570px;
+    height: 260px;
+    border: 1px solid #fea35b;
+    overflow: hidden;
+    position: absolute;
+    z-index: 1;
+}
+.dbdy .bgjpg .select .yqsi ul {
+    width: 10000px;
+    height: 260px;
+    position: absolute;
+}
+.dbdy .bgjpg .select .yqsi ul li {
+    float: left;
+}
+.dbdy .bgjpg .select .seltr .newWen {
+    width: 442px;
+    height: 262px;
+    /* background-color: pink; */
+    position: absolute;
+    top: 0;
+    right: 220px;
+}
+.dbdy .bgjpg .select .newWen .newtitle {
+    width: 430px;
+    height: 52px;
+    border-bottom: 1px dashed #fea35b;
+    position: relative;
+}
+.dbdy .bgjpg .select .chtitle {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: #d49f3f;
+    line-height: 52px;
+    margin-left: -8px;
+}
+.dbdy .bgjpg .select .entitle {
+    font-style: italic;
+    font-weight: bold;
+    color: #513c08;
+    font-size: 14px;
+    margin-left: 10px;
+}
+.dbdy .bgjpg .select .newmore {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    /* background-color: blue; */
+    right: 15px;
+    top: 0;
+}
+.dbdy .newWen .newmore .gedo {
+    width: 26px;
+    height: 26px;
+    border: 1px solid #3c2f07;
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    transform: rotate(45deg);
+}
+.dbdy .newWen .newmore .jahao {
+    width: 26px;
+    height: 26px;
+    border: 2px solid #b69324;
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    font-size: 26px;
+    line-height: 24px;
+    color: #dcdcdc;
+}
+.dbdy .newWen .newmore .gode {
+    position: absolute;
+    display: none;
+    width: 44px;
+    height: 44px;
+    background: url(./img/index_z_a1745cb.png) -2450px -804px;
+}
+.dbdy .newWen .newList {
+    width: 430px;
+    height: 234px;
+}
+.dbdy .newWen .newList ul {
+    width: 430px;
+    height: 234px;
+}
+.dbdy .newWen .newList li {
+    width: 430px;
+    height: 58px;
+}
+.dbdy .newWen .newList .bskball {
+    width: 430px;
+    height: 24px;
+}
+.dbdy .newWen .newList .bskball .qiu {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+    margin-left: -8px;
+    background: url(./img/index_z_a1745cb.png) -2482px -352px;
+}
+.dbdy .newWen .newList .bskball .time {
+    line-height: 24px;
+    display: inline-block;
+    color: #99979d;
+    font-size: 16px;
+}
+.dbdy .newWen .newList .tegog {
+    width: 430px;
+    height: 20px;
+    font-size: 14px;
+    line-height: 20px;
+    margin-left: 16px;
+    margin-top: 8px;
+    color: #e7f2c2;
+}
+.dbdy .select .swiper {
+    width: 572px;
+    height: 26px;
+    margin-top: 20px;
+}
+.dbdy .select .swiper li {
+    width: 24px;
+    height: 20px;
+    float: left;
+    background: url(./img/index_z_a1745cb.png) -2482px -298px;
+    margin-right: 20px;
+    opacity: 0.4;
+    cursor: pointer;
+}
+.dbdy .select .swiper li:first-child {
+    margin-left: 200px;
+    opacity: 1;
+}
+
+
+
